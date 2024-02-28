@@ -30,3 +30,15 @@ if (keyboard_check(ord("A")) && !place_meeting(x-8,y,obj_wall))
 	
 }
 
+//creating bullets to fire whenever you press space
+if (keyboard_check_pressed(vk_space))
+{
+	var bullet = instance_create_depth(obj_gun.x,obj_gun.y,depth-1,obj_bullet);
+	bullet.speed = 8;
+	bullet.direction = point_direction(obj_gun.x,obj_gun.y,mouse_x,mouse_y);
+	bullet.image_angle = bullet.direction;
+}
+
+
+
+
