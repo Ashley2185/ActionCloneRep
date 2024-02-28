@@ -1,5 +1,5 @@
 //player speed
-gremlin_speed = 7;
+gremlin_speed = 3;
 
 //speed boost(?)
 boost = 5;
@@ -8,6 +8,8 @@ boost = 5;
 
 
 //invincibility timers insert below
+
+
 
 
 

@@ -17,7 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Barrier","order":4,"path":"sprites/Barrier/Barrier.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
     {"name":"Gremlin","order":2,"path":"sprites/Gremlin/Gremlin.yy",},
+    {"name":"obj_bg","order":2,"path":"objects/obj_bg/obj_bg.yy",},
+    {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
   ],
 }
