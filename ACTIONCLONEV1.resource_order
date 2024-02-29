@@ -25,10 +25,12 @@
     {"name":"obj_enemygun","order":7,"path":"objects/obj_enemygun/obj_enemygun.yy",},
     {"name":"Gun","order":5,"path":"sprites/Gun/Gun.yy",},
     {"name":"Bullet","order":6,"path":"sprites/Bullet/Bullet.yy",},
+    {"name":"obj_enemybullet","order":8,"path":"objects/obj_enemybullet/obj_enemybullet.yy",},
     {"name":"obj_gun","order":4,"path":"objects/obj_gun/obj_gun.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
     {"name":"Gremlin","order":2,"path":"sprites/Gremlin/Gremlin.yy",},
     {"name":"obj_bg","order":2,"path":"objects/obj_bg/obj_bg.yy",},
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"EnemyBullet","order":8,"path":"sprites/EnemyBullet/EnemyBullet.yy",},
   ],
 }

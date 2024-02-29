@@ -5,7 +5,10 @@ duration = 180;
 
 
 //enemy speed
-enemy_speed = .5;
+enemy_speed = 3;
+
+//enemy moves after 120 steps
+alarm[0] = 120;
 
 
 

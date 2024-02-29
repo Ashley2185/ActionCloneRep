@@ -1,7 +1,7 @@
 //to do
-//fix bullet spawning, its a bit choppy (origin point fix)
+//figure out how to get enemy guns ONTO EACH INSTANCE of enemy
 
-//create enemies that also have guns that fire bullets
+//figure out how to space out the bullets
 
 //walking animations: how do I queue up walking animation when I press a certain key etc etc
 
