@@ -12,9 +12,9 @@ if (place_meeting(x,y,obj_bullet) && !invicible)
 if hp = 0
 {
 	show_debug_message("DEAD");
-	instance_destroy(obj_enemy);
-	instance_destroy(obj_enemygun);
-	instance_destroy(obj_erecoil);
+	instance_destroy(obj_enemy6);
+	instance_destroy(obj_enemygun6);
+	instance_destroy(obj_erecoil6);
 }
 
 //how invincibility is triggered/untriggered
