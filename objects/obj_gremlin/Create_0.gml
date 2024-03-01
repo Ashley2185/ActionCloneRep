@@ -1,15 +1,11 @@
 //to do
-//walking animations for enemies
 
-//walking animations: mess around with speed so it is fast
+//STOP ENEMIES FROM GOING OUT OF RANGE
 
-//sound effects and advance gun shoot VX
-
-//enemy dying once you hit it two times with gun
-
+//duplicate enemy 1 and enemy gun 1 for 5 other enemies (FINAL STEP)
 
 //player speed
-gremlin_speed = 3;
+gremlin_speed = 5;
 
 
 
