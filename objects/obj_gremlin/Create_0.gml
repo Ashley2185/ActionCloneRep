@@ -1,18 +1,16 @@
 //to do
-//figure out how to get enemy guns ONTO EACH INSTANCE of enemy
+//walking animations for enemies
 
-//figure out how to space out the bullets
-
-//walking animations: how do I queue up walking animation when I press a certain key etc etc
+//walking animations: mess around with speed so it is fast
 
 //sound effects and advance gun shoot VX
+
+//enemy dying once you hit it two times with gun
 
 
 //player speed
 gremlin_speed = 3;
 
-//speed boost(?)
-boost = 5;
 
 
 
